@@ -1,0 +1,9 @@
+D:\Test Projs\TestShiftVal\TestShiftVal\bin\Debug\TestShiftVal.exe.config
+D:\Test Projs\TestShiftVal\TestShiftVal\bin\Debug\TestShiftVal.exe
+D:\Test Projs\TestShiftVal\TestShiftVal\bin\Debug\TestShiftVal.pdb
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.csprojResolveAssemblyReference.cache
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.Form1.resources
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.Properties.Resources.resources
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.csproj.GenerateResource.Cache
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.exe
+D:\Test Projs\TestShiftVal\TestShiftVal\obj\Debug\TestShiftVal.pdb
